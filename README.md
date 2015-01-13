@@ -1,0 +1,1 @@
+Currently it just removes white space and comments. Nothing specific to GLSL. Could be used for any "C like" programming languages.
